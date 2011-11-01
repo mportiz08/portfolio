@@ -45,7 +45,10 @@ h3 {
   text-indent: 35px;
 }
 
-h4 { font-size: 14px; }
+h4 {
+  font-size: 14px;
+  padding: 10px;
+}
 
 .clear {
   clear: both;
