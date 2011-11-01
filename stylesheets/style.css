@@ -146,3 +146,10 @@ img.me {
   font-weight: normal;
   padding: 5px 0;
 }
+
+#credits {
+  border-top: 1px solid rgba(0, 0, 0, 0.3);
+  font-size: 12px;
+  padding: 20px 0;
+  text-align: center;
+}
