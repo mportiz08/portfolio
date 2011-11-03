@@ -97,6 +97,21 @@ h4 {
   width: 128px;
 }
 
+.highlight {
+  margin: 15px 0;
+}
+
+.highlight .fr {
+  height: 78px;
+  width: 10px;
+}
+
+.highlight .fr._0b { background: #0b486b; }
+.highlight .fr._3b { background: #3b8686; }
+.highlight .fr._79 { background: #79bd9a; }
+.highlight .fr._a8 { background: #a8dba8; }
+.highlight .fr._cf { background: #cff09e; }
+
 a.ruby { color: #c61a1a; }
 a.coffeescript { color: #ff5600; }
 a.rails { color: #981a21; }
