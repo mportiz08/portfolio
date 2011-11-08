@@ -157,7 +157,11 @@ img.me {
 }
 
 #top-left {
-  width: 450px;
+  width: 525px;
+}
+
+#top-left .fr {
+  width: 400px;
 }
 
 #top-right {
