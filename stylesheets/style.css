@@ -130,7 +130,7 @@ img.me {
   border: 1px solid #ccc;
   margin: 10px auto;
   padding: 0 30px;
-  width: 637px;
+  width: 720px;
 }
 
 #container .border {
@@ -150,6 +150,10 @@ img.me {
 
 #banner .pic {
   padding: 15px 0;
+}
+
+#portfolio {
+  padding: 0 40px;
 }
 
 #top-left {
